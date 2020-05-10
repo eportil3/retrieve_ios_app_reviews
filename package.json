@@ -1,0 +1,26 @@
+{
+  "name": "retrieve_ios_app_reviews",
+  "version": "1.0.0",
+  "description": "Spoof the origin header to retrieve app reviews for Duolingo",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/eportil3/retrieve_ios_app_reviews.git"
+  },
+  "keywords": [
+    "cors", "duolingo", "ios", "app", "reviews", "api"
+  ],
+  "author": "Erik Portillo <6964428+eportil3@users.noreply.github.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eportil3/retrieve_ios_app_reviews/issues"
+  },
+  "homepage": "https://github.com/eportil3/retrieve_ios_app_reviews#readme",
+  "dependencies": {
+    "request-promise": "^4.2.5",
+    "request": "^2.81.0"
+  }
+}
